@@ -57,3 +57,4 @@ print(w)
 
 ## RESULT:
 Thus the Back Propagation with Single Neuron was successfully implemented using python programming.
+
