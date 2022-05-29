@@ -29,10 +29,11 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 Keep repeating the process until the desired output is achieved.
 
 ### PROGRAM:
-### Program to implement random classification.
-### Developed by   : N Sandhya Charu
-### Register Number :  212220230041
 ```python3
+Program to implement random classification.
+Developed by   : N Sandhya Charu
+Register Number :  212220230041
+
 import numpy as np
 i=1.5    
 w_o=0.8  
@@ -54,6 +55,10 @@ print(a)
 print(" ")
 print(w)
 ```
+
+<br>
+<br>
+<br>
 
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/75235167/164459871-ab72b6f8-dce4-447b-8ba5-1035f093ba27.png)
