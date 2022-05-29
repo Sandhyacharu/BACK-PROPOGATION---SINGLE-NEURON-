@@ -25,6 +25,9 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ## Algorithm:
 1. Inputs X, arrive through the preconnected path.
